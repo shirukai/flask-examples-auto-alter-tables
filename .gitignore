@@ -1,0 +1,9 @@
+.settings
+.project
+*.iml
+.iml*
+.idea
+.idea*
+*.pyc
+*.DS_Store
+
